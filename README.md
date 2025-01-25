@@ -1,4 +1,4 @@
-Signature Detection
+# Signature Detection
 This project aims to detect signatures in images using YOLOv5. It involves the following steps:
 
 1. Data Annotation
